@@ -19,7 +19,7 @@ Example: C++, Java, Python, JavaScript, PHP etc.
 => Example: Machine language, Assembly language etc.
 
 NOTE: C , it is used to build operating system.
-=> Mac, WIndow..........
+=> Mac, WIndow........
 
 
 
